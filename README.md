@@ -24,6 +24,8 @@ Since an end-to-end supervised learning method is used, the ground truth velocit
 ## paper
 [chinese version](https://github.com/Yiran-H/Seismic-Velocity-Inversion-Based-on-Deep-Convolutional-Neural-Networks/blob/main/20220712_O_origin_reject.pdf)
 (it was reject though)
+[IJCNN2024](https://github.com/Yiran-H/Seismic-Velocity-Inversion-Based-on-Deep-Convolutional-Neural-Networks/blob/main/IJCNN2024-PanHuangWangLiXu.pdf)
+[IMAGE2024](https://github.com/Yiran-H/Seismic-Velocity-Inversion-Based-on-Deep-Convolutional-Neural-Networks/blob/main/huang-et-al-2024-date-driven-seismic-velocity-inversion-via-deep-residual-u-net.pdf)
 
 ## citation
 all the work is based on the [FCNVMB](https://github.com/YangFangShu/FCNVMB-Deep-learning-based-seismic-velocity-model-building)
